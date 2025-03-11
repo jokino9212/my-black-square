@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-black-square/static/css/main.d16046fc.css",
+    "main.js": "/my-black-square/static/js/main.961a5225.js",
+    "index.html": "/my-black-square/index.html",
+    "main.d16046fc.css.map": "/my-black-square/static/css/main.d16046fc.css.map",
+    "main.961a5225.js.map": "/my-black-square/static/js/main.961a5225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16046fc.css",
+    "static/js/main.961a5225.js"
+  ]
+}
